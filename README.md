@@ -57,6 +57,9 @@ Download it on Modrinth [![Latest][img-latest]][url-latest]
 
 ### Gallery
 
+![Planks](https://cdn.modrinth.com/data/OO2UO2kF/images/7ff44925d36091fe3d9b4e945c45b28a8a5f26f7.png)
+![Otherworld](https://cdn.modrinth.com/data/OO2UO2kF/images/e29c80224305e348e8a596d90d91ef8d54e49756.png)
+
 More images on [Modrinth][url-modrinth].
 
 ## License
