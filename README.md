@@ -12,7 +12,7 @@
 
 Vervada's double slabs adds variants when you stack two slab on top of the other. The pack includes pillars, bricks, vertical textures and others features to help you decorate your builds.
 
-![All blocks]()
+![All blocks](https://cdn.modrinth.com/data/OO2UO2kF/images/ed3c0f9298787eaa4a68952b5c840d51fc600d3e.png)
 
 Download it on Modrinth [![Latest][img-latest]][url-latest]
 
@@ -68,13 +68,14 @@ This work is licensed under a Attribution-ShareAlike 4.0 International License.
 ### Update 4 : 1.20
 
 - Changed cut red sandstone
+- Changed pack version
 
 <!-- URLs -->
 
 [img-discord]: <https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white>
 [img-github]: <https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white>
-[img-modrinth]: <https://img.shields.io/modrinth/dt/ghc0v6DT?style=for-the-badge>
-[img-latest]: <https://img.shields.io/modrinth/v/ghc0v6DT?style=for-the-badge&logo=Modrinth>
+[img-modrinth]: <https://img.shields.io/modrinth/dt/OO2UO2kF?style=for-the-badge>
+[img-latest]: <https://img.shields.io/modrinth/v/OO2UO2kF?style=for-the-badge&logo=Modrinth>
 
 [url-github]: <https://github.com/Valdr687/Vervada-s-double-slabs>
 [url-discord]: <https://discord.com/invite/rKgAg8X>
