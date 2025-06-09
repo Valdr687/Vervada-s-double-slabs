@@ -2,7 +2,7 @@
   "variants": {
     "type=bottom": {
       "model": "minecraft:block/polished_blackstone_brick_slab"
-    },
+    },    
     "type=double": {
       "model": "minecraft:block/polished_blackstone_bricks_double"
     },

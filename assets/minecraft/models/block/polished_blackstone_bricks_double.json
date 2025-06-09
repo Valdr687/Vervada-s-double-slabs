@@ -1,6 +1,7 @@
 {
-    "parent": "block/cube_all",
+    "parent": "minecraft:block/cube_column",
     "textures": {
-        "all": "block/double/polished_blackstone_bricks_double"
+        "end": "block/polished_blackstone_bricks_double_end",
+        "side": "block/double/polished_blackstone_bricks_double_side"
     }
 }

@@ -2,7 +2,7 @@
   "variants": {
     "type=bottom": {
       "model": "minecraft:block/polished_deepslate_slab"
-    },
+    },    
     "type=double": {
       "model": "minecraft:block/polished_deepslate_double"
     },

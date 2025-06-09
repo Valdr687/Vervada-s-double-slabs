@@ -1,1 +1,5 @@
-{"pack":{"pack_format":32,"description":"Made by builders for builders"}}
+{
+  "pack": { "pack_format": 63, 
+  "description": "Double slabs for your world !" },
+  "supported_formats": [5,63]
+}

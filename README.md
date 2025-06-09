@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Valdr687/Vervada-s-double-slabs/blob/main/pack.png?raw=true" alt="Pack logo" width="30%">
 
-# Vervada's enhanced plants
+# Vervada's double slabs
 
 [![Discord][img-discord]][url-discord]
 [![GitHub][img-github]][url-github]  
@@ -18,42 +18,49 @@ Download it on Modrinth [![Latest][img-latest]][url-latest]
 
 ## Block list
 
-- Overworld :
+* **Vertical textures** : [^3]
+  * Wooden planks[^1]
+  * Stone, Andesite, Diorite, Granite[^2]
+  * Deepslate tiles
+  * Bricks / Resin bricks
 
-  - planks : vertical planks ( compatibles with any texture pack )
-  - stone, andesite, diorite, granite : vertical textures ( compatible with any texture pack )
-  - polished andesite, diorite, granite : bricks
-  - both cobblestone and mossy cobblestone : bricks
-  - both stone bricks and mossy stone bricks : column
-  - cut stone : bricks of cut stone
-  - bricks & bamboo mosaic : column
-  - dark prismarine : variant with the shape of the default prismarine
-  - prismarine : variant with the shape of the dark prismarine
-  - prismarine taillée : variant with the colors of the dark prismarine
-  - both sandstone and red sandstone : bricks
-  - both red smooth sandstone and smooth sandstone : column
-  - cut sandstone and cut sandstone : bricks
-  - cut copper ( waxed or not ) : big bricks
-  - cobbled deepslate : bricks
-  - deepslate bricks : column
-  - polished deepslate : smoother texture
-  - deepslate tiles : vertical texture
+* **Bricks** :
+  * Polished andesite, diorite, granite
+  * Both cobblestone and mossy cobblestone
+  * Both stone bricks and mossy stone bricks
+  * Cut stone
+  * Both sandstone and red sandstone
+  * Cut sandstone and cut red sandstone
+  * Cut copper (waxed or not)
+  * Cobbled deepslate
+  * Quartz
+  * Smooth Stone
 
-- Nether :
-  - blackstone : barrel with gold ( compatible with any texture pack )
-  - polished blackstone and polished blackstone bricks : variant with a smoother texture
-  - nether bricks and red nether bricks : column
-  - quartz : cut quartz
-  - smooth quartz : quartz bookshelf ( compatible with any 16 x texture pack )
-  
-- Ender :
-  - purpur block : purpur bricks
-  - end stone bricks : variant
-  
-- Petrified oak :
-  - double slab : vertical oak planks
-  - upper slab : spruce table ( compatible with any texture pack )
-  - lower slab : dirt slab ( compatible with any texture pack )
+* **Columns** :
+  * Both red smooth sandstone and smooth sandstone
+  * Deepslate bricks
+  * Nether bricks and red nether bricks
+  * Mud Brick
+  * Tuff Brick
+  * Polished Tuff
+
+* **Variants** :
+  * Dark prismarine : variant with the shape of the default prismarine
+  * Prismarine : variant with the shape of the dark prismarine
+  * Prismarine brick : variant with the colors of the dark prismarine
+  * Polished deepslate : smoother texture
+  * Polished blackstone and polished blackstone bricks : smoother texture
+  * End stone bricks
+  * Purpur block
+
+* **New blocks** :
+  * Smooth quartz : quartz bookshelf [^3]
+  * Blackstone : barrel with gold [^3]
+  * bamboo mosaic : stack of bamboo
+  * Petrified oak :
+    * Upper slab : spruce table [^3]
+    * Lower slab : dirt slab [^3]
+  * Stone/tuff/andesite/diorite/granite : brick pot
 
 ### Gallery
 
@@ -68,10 +75,23 @@ This work is licensed under a Attribution-ShareAlike 4.0 International License.
 
 ## Changelog
 
+### Update 5 : 1.21
+
+* Changed stone/andesite/diorite/granite
+* Changed polished granite texture
+* Added tuff
+* Changed polished blackstone / polished blackstone bricks
+
 ### Update 4 : 1.20
 
-- Changed cut red sandstone
-- Changed pack version
+* Changed cut red sandstone
+* Changed pack version
+
+<!-- Footnotes -->
+
+[^1]: Oak Slab (including double petrified slabs) / Spruce Slab / Birch Slab / Jungle Slab / Acacia Slab / Dark Oak Slab / Mangrove Slab / Cherry Slab / Pale Oak Slab / Bamboo Slab / Crimson Slab / Warped Slab
+[^2]: Looking for feedback here !
+[^3]: Should be compatible with most texture pack out there. If you find a bug, please report it on [GitHub][url-github] or on the [Discord server][url-discord].
 
 <!-- URLs -->
 

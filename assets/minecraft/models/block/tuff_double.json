@@ -1,9 +1,9 @@
 {
     "credit": "Made with Blockbench",
     "textures": {
-        "0": "block/double/andesite_double",
+        "0": "block/double/tuff_double",
         "1": "block/grass_block_top",
-        "particle": "block/double/andesite_double"
+        "particle": "block/double/tuff_double"
     },
     "elements": [
         {
