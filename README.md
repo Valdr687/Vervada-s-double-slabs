@@ -12,7 +12,7 @@
 
 Vervada's double slabs adds variants when you stack two slab on top of the other. The pack includes pillars, bricks, vertical textures and others features to help you decorate your builds.
 
-![All blocks](https://cdn.modrinth.com/data/OO2UO2kF/images/ed3c0f9298787eaa4a68952b5c840d51fc600d3e.png)
+![All blocks](https://cdn.modrinth.com/data/OO2UO2kF/images/94f3bd345a53a8a8e97e962422cc3d1761d6e7eb.png)
 
 Download it on Modrinth [![Latest][img-latest]][url-latest]
 
@@ -64,7 +64,7 @@ Download it on Modrinth [![Latest][img-latest]][url-latest]
 
 ### Gallery
 
-![Planks](https://cdn.modrinth.com/data/OO2UO2kF/images/7ff44925d36091fe3d9b4e945c45b28a8a5f26f7.png)
+![Planks](https://cdn.modrinth.com/data/OO2UO2kF/images/2c9e1b067a15ab2dfa3595d64cdb10a661ed8e66.png)
 ![Otherworld](https://cdn.modrinth.com/data/OO2UO2kF/images/e29c80224305e348e8a596d90d91ef8d54e49756.png)
 
 More images on [Modrinth][url-modrinth].
