@@ -103,4 +103,4 @@ This work is licensed under a Attribution-ShareAlike 4.0 International License.
 [url-github]: <https://github.com/Valdr687/Vervada-s-double-slabs>
 [url-discord]: <https://discord.com/invite/rKgAg8X>
 [url-modrinth]: <https://modrinth.com/resourcepack/vervadas-double-slabs>
-[url-latest]: <https://modrinth.com/resourcepack/vervadas-double-slabs/version/1>
+[url-latest]: <https://modrinth.com/resourcepack/vervadas-double-slabs/version/1.1>
