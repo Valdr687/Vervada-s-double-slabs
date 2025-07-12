@@ -1,5 +1,5 @@
 {
-  "pack": { "pack_format": 63, 
+  "pack": { "pack_format": 64, 
   "description": "Double slabs for your world !" },
-  "supported_formats": [5,63]
+  "supported_formats": [5,64]
 }
